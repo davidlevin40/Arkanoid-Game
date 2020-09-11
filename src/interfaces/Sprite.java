@@ -1,5 +1,4 @@
 package interfaces;
-// ID: 316554641
 
 import biuoop.DrawSurface;
 import gamesetting.GameLevel;
