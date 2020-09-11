@@ -1,5 +1,4 @@
 package gamesetting;
-// ID: 316554641
 
 import biuoop.DrawSurface;
 import interfaces.Animation;
