@@ -1,5 +1,3 @@
-// ID: 316554641
-
 import gamesetting.AnimationRunner;
 import gamesetting.GameFlow;
 import interfaces.LevelInformation;
