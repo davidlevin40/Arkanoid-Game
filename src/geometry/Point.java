@@ -1,6 +1,4 @@
 package geometry;
-// ID: 316554641
-
 
 /**
  * Geometry.Point class.
