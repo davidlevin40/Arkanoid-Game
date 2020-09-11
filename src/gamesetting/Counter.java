@@ -1,5 +1,4 @@
 package gamesetting;
-// 316554641
 
 /**
  * Counter class.
