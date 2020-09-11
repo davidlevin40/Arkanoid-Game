@@ -1,5 +1,4 @@
 package levels;
-// 316554641
 
 import geometry.Block;
 import geometry.Point;
