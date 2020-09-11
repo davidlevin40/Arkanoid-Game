@@ -1,5 +1,4 @@
 package gamesetting;
-// ID: 316554641
 
 import geometry.Ball;
 import geometry.Block;
