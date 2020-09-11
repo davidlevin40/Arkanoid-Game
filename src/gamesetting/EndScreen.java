@@ -1,5 +1,4 @@
 package gamesetting;
-// 316554641
 
 import biuoop.DrawSurface;
 import biuoop.KeyboardSensor;
