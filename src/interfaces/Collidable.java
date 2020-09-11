@@ -1,5 +1,4 @@
 package interfaces;
-// ID: 316554641
 
 import geometry.Ball;
 import geometry.Point;
