@@ -1,5 +1,4 @@
 package gamesetting;
-// ID: 316554641
 
 import geometry.Point;
 import interfaces.Collidable;
