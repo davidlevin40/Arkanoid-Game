@@ -1,5 +1,4 @@
 package gamesetting;
-// ID: 316554641
 
 import geometry.Line;
 import geometry.Point;
