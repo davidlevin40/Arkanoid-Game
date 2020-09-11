@@ -1,6 +1,4 @@
 package geometry;
-// ID: 316554641
-
 
 import java.util.ArrayList;
 import java.util.List;
