@@ -1,5 +1,4 @@
 package geometry;
-// 316554641
 
 import gamesetting.CollisionInfo;
 import gamesetting.GameLevel;
