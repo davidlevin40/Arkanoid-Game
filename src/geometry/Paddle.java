@@ -1,5 +1,4 @@
 package geometry;
-// ID: 316554641
 
 import biuoop.DrawSurface;
 import java.awt.Color;
